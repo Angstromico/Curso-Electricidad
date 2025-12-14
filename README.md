@@ -30,4 +30,4 @@ Este sitio fue creado con PHP y CSS puros y es ideal para aquellos que se inicia
 
 ## Visualización en Línea
 
-### Puedes ver la página en el siguiente enlace: [Curso de Electricidad Básico](https://blogelectronica.netlify.app/)
+### Puedes ver la página en el siguiente enlace: [Curso de Electricidad Básico](https://electricidad.infinityfree.me)
