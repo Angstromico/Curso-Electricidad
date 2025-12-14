@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog de Electricidad - Cursos de Electrónica y Electricidad</title>
+<meta name="description" content="Blog de cursos de electricidad y electrónica. Aprende conceptos básicos y avanzados de forma práctica y sencilla.">
+
+<!-- SEO -->
+<meta name="keywords" content="Electricidad, Electrónica, Cursos, Blog, Circuitos, Voltaje, Corriente, Resistencia, Principios de Electricidad">
+<meta name="author" content="Manuel Morales">
+<link rel="canonical" href="https://blogelectronica.netlify.app/">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://blogelectronica.netlify.app/">
+<meta property="og:title" content="Blog de Electricidad - Cursos de Electrónica y Electricidad">
+<meta property="og:description" content="Explora nuestro blog de cursos de electricidad y electrónica para aprender desde lo básico hasta conceptos avanzados.">
+<meta property="og:image" content="public/main.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://blogelectronica.netlify.app/">
+<meta property="twitter:title" content="Blog de Electricidad - Cursos de Electrónica y Electricidad">
+<meta property="twitter:description" content="Explora nuestro blog de cursos de electricidad y electrónica para aprender desde lo básico hasta conceptos avanzados.">
+<meta property="twitter:image" content="public/main.png">
+
+<!-- Preload -->
+<link rel="preload" href="css/Normalize.css" as="style">
+<link rel="stylesheet" href="css/Normalize.css">
+<link rel="preload" href="css/Estilos.css" as="style">
+<link rel="stylesheet" href="css/Estilos.css">
+
+<!-- Favicon -->
+<link rel="icon" href="public/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header class="header">
+        <div class="contenedor">
+            <div class="barra">
+                <a class="logo no-margin center" href="index.php">
+                    <h1 class="logo__nombre">Blog<span class="logo__nombre-bold">DeElectonica</span></h1>
+                </a>
+                <nav class="enlaces">
+                    <a href="Nosotros.php" class="enlaces__nav">Nosotros</a>
+                    <a href="Cursos.php" class="enlaces__nav">Cursos</a>
+                    <a href="Contacto.php" class="enlaces__nav">Contacto</a>
+                </nav>
+            </div>
+        </div>
+        <div class="header__texto">
+            <h2 id="heading" class="no-margin">Blog de Electrónica con Consejos y Cursos</h2>
+            <p class="no-margin">Aprende de los Expertos de Manera fácil y Apasionante</p>
+        </div>
+    </header>
